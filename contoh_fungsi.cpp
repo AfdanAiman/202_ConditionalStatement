@@ -15,7 +15,7 @@ double hitungluas (){
 }
 
 void prosedureOutput(){
-    cout << "Luas Segitiga : " << luas << endl;
+    cout << "Luas Segitiga : " << hitungluas << endl;
 }
 
 
